@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Ayesha Rahman",
+        "specialization": "Cardiologist",
+        "email": "ayesha.rahman@gmail.com",
+        "username": "ayesha.rahman",
+        "password": "12345",
+        "phone": "01711000001"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Kamal Hossain",
+        "specialization": "Dermatologist",
+        "email": "kamal.hossain@gmail.com",
+        "username": "kamal.hossain",
+        "password": "12345",
+        "phone": "01711000002"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Nusrat Jahan",
+        "specialization": "Pediatrician",
+        "email": "nusrat.jahan@gmail.com",
+        "username": "nusrat.jahan",
+        "password": "12345",
+        "phone": "01711000003"
+    },
+    {
+        "id": 4,
+        "name": "Dr. Rafiul Islam",
+        "specialization": "Orthopedic Surgeon",
+        "email": "rafiul.islam@gmail.com",
+        "username": "rafiul.islam",
+        "password": "12345",
+        "phone": "01711000004"
+    },
+    {
+        "id": 5,
+        "name": "Dr. Farhana Akter",
+        "specialization": "Neurologist",
+        "email": "farhana.akter@gmail.com",
+        "username": "farhana.akter",
+        "password": "12345",
+        "phone": "01711000005"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Sourov",
+        "specialization": "General Physician",
+        "email": "sourov@gmail.com",
+        "username": "sourov",
+        "password": "12345",
+        "phone": "01711000006"
+    }
+]
